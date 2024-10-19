@@ -25,7 +25,7 @@ Personal Finance Tracker is a web application designed to help users manage thei
    ```sh
    cd personal-finance-tracker
    ```
-3. Modify `application.properties`: Change the username and password of the database in the application.properties file.
+3. Modify `application.properties`: Change the database name,  username and password of the database in the src/main/resources/application.properties file.
 
 4. Install dependencies:
    ```sh
