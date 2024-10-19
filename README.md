@@ -19,13 +19,14 @@ Personal Finance Tracker is a web application designed to help users manage thei
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/personal-finance-tracker.git
+   git clone https://github.com/Sagarmahesh/personal-finance-tracker.git
    ```
 2. Navigate to the project directory:
    ```sh
    cd personal-finance-tracker
    ```
-3. Modify `application.properties`: Change the username and password of the SQL database.
+3. Modify `application.properties`: Change the username and password of the database in the application.properties file.
+
 4. Install dependencies:
    ```sh
    mvn install
@@ -45,4 +46,5 @@ Instructions on how to use the application once it's running:
 3. Start tracking your finances!
 
 ## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. 
+Let me know if you have any queries.
